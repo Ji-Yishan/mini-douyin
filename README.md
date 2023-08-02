@@ -1,5 +1,6 @@
 # simple-demo
-
+由于队友更喜欢Gitee所以我只是把项目克隆到这里了
+> [Gitee链接](https://gitee.com/robbinyang/mini-douyin/tree/main/)
 ## 抖音项目服务端简单示例
 
 具体功能内容参考飞书说明文档
